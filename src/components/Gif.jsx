@@ -8,9 +8,7 @@ const Gif = (props) => {
     changeSelectedGif(id);
   };
   return (
-    <div>
       <img onClick={handleClick} src={url} alt="gif" className="gif" />
-    </div>
   );
 };
 
