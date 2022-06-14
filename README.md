@@ -1,4 +1,5 @@
-# react-boilerplate
+# React - GIF finder
+###
 
 Simple react starter with the following config:
 
