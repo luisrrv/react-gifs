@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = node_modules/.cache/gh-pages/https!github.com!luisrrv!react-gifs.git
+  url = git://https://github.com/luisrrv/react-gifs/tree/gh-pages/
