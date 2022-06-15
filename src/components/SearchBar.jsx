@@ -7,7 +7,7 @@ const SearchBar = (props) => {
   };
   return (
     <div>
-      <input onKeyUp={handleChange} type="text" className="form-search form-control" />
+      <input onChange={handleChange} type="text" className="form-search form-control" />
     </div>
   );
 };
