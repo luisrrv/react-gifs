@@ -1,5 +1,5 @@
 # ⚛️ React - GIF finder
-### React app that lets you search for GIFs from GIPHY API using React Hooks
+### React app that lets you search for GIFs from GIPHY API
 <img width="1421" alt="Screen Shot 2022-06-15 at 8 53 06" src="https://user-images.githubusercontent.com/69304255/173708162-78a388ac-7883-4140-bbc3-e598a8ced604.png">
 <br/>
 
